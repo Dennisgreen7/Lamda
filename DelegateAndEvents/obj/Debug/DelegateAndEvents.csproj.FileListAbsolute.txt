@@ -1,0 +1,14 @@
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\bin\Debug\DelegateAndEvents.pdb
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\obj\Debug\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\obj\Debug\DelegateAndEvents.exe
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\obj\Debug\DelegateAndEvents.pdb
+C:\Dot.Net\C# Advanced\Shior8\DelegateAndEvents\obj\Debug\DelegateAndEvents.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\obj\Debug\DelegateAndEvents.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\obj\Debug\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\obj\Debug\DelegateAndEvents.exe
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\obj\Debug\DelegateAndEvents.pdb
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe
+C:\Dot.Net\C# Advanced\Shior10\DelegateAndEvents\bin\Debug\DelegateAndEvents.pdb
