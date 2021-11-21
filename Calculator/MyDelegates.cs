@@ -1,1 +1,0 @@
-﻿delegate double MathDelegate(double num1, double num2);
